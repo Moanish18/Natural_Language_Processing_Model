@@ -4,7 +4,6 @@
 ![Scikit-learn](https://img.shields.io/badge/Library-Scikit--learn-yellow.svg?logo=scikit-learn)
 ![Keras](https://img.shields.io/badge/Model-Keras%20%7C%20XGBoost%20%7C%20CatBoost%20%7C%20SGD%20-blue.svg)
 ![Status](https://img.shields.io/badge/Progress-Completed-brightgreen)
-![License](https://img.shields.io/badge/License-MIT-lightgrey)
 
 This project tackles multi-class emotion classification using tweets. The primary goal is to classify text into emotions like `anger`, `fear`, `joy`, and `sadness`. This pipeline includes text cleaning, data visualization, training over 20 ML/DL models, and choosing the best-performing model based on rigorous evaluation metrics.
 
